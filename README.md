@@ -1,10 +1,10 @@
 # Secrets  
   
-## Steps:
-Step 1 : Register/ Login on the website.
-Step 2 : See all the anonymous secrets.
-Step 3 : Write a secret for your own account.
-Step 4 : Written secret will be displayed on the secrets page. 
+## Steps:  
+Step 1 : Register/ Login on the website.  
+Step 2 : See all the anonymous secrets.  
+Step 3 : Write a secret for your own account.  
+Step 4 : Written secret will be displayed on the secrets page.  
   
 ## Images  
 Home Page
